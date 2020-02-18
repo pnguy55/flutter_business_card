@@ -18,8 +18,8 @@ class MyApp extends StatelessWidget {
 //          verticalDirection: VerticalDirection.up,
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
 //          only centers based on largest container, invis container for hax
-//          crossAxisAlignment: CrossAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.stretch,
+          crossAxisAlignment: CrossAxisAlignment.center,
+//          crossAxisAlignment: CrossAxisAlignment.stretch,
           children: <Widget>[
 //            invis container
             Container(
