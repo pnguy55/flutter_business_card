@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
 //          crossAxisAlignment: CrossAxisAlignment.stretch,
           children: <Widget>[
-//            invis container
+//            invis container allows for centering of the rest
             Container(
               width: double.infinity,
             ),
